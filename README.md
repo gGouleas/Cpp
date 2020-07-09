@@ -1,2 +1,2 @@
 # Cpp
- small excersises in C++ 
+ small excercises in C++ 
